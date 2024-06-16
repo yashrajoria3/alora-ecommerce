@@ -26,7 +26,7 @@ Welcome to the Alora e-commerce website! This project is a robust and feature-ri
    git clone https://github.com/yashrajoria3/alora-repo.git
    cd alora-repo
 
-2. Install dependencies:
+2. **Install dependencies:**
   ```
   npm install
   Set up environment variables:
@@ -37,7 +37,7 @@ Welcome to the Alora e-commerce website! This project is a robust and feature-ri
   JWT_SECRET=your-jwt-secret
   STRIPE_SECRET_KEY=your-stripe-secret-key
   ```
-3.Run the development server:
+3. **Run the development server:**
 ```
 
 npm run dev
