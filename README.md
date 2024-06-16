@@ -27,24 +27,23 @@ Welcome to the Alora e-commerce website! This project is a robust and feature-ri
    cd alora-repo
 
 2. **Install dependencies:**
-  ```
-  npm install
-  Set up environment variables:
-  Create a .env file in the root directory and add the following variables:
-  
-  env
-  MONGO_URI=your-mongodb-uri
-  JWT_SECRET=your-jwt-secret
-  STRIPE_SECRET_KEY=your-stripe-secret-key
-  ```
+   ```
+   npm install
+   Set up environment variables:
+   Create a .env file in the root directory and add the following variables:
+   
+   env
+   MONGO_URI=your-mongodb-uri
+   JWT_SECRET=your-jwt-secret
+   STRIPE_SECRET_KEY=your-stripe-secret-key
+   ```
 3. **Run the development server:**
-```
-
-npm run dev
-Usage
-Frontend: Navigate to http://localhost:3000 to view the frontend of the e-commerce website.
-Backend: The backend server runs on http://localhost:5000.
-```
+   ```
+   npm run dev
+   Usage
+   Frontend: Navigate to http://localhost:3000 to view the frontend of the e-commerce website.
+   Backend: The backend server runs on http://localhost:5000.
+   ```
 
 ## Contributing
 We welcome contributions! Please fork the repository and create a pull request with your changes.
